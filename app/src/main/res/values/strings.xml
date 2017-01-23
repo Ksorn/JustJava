@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="string_numbers_coffees">2</string>
+    <string name="text_order">ORDER</string>
+    <string name="string_quantity">Quantity</string>
+    <string name="string_dollar_price">$10</string>
+    <string name="string_price">Price</string>
+    <string name="string_plus">+</string>
+    <string name="string_minus">-</string>
+    <string name="string_multiply">*</string>
+    <string name="string_halve">/</string>
+</resources>

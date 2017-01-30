@@ -5,4 +5,5 @@
     <dimen name="text_size_one">16sp</dimen>
     <dimen name="button_size_one">48dp</dimen>
     <dimen name="text_margin_one">8dp</dimen>
+    <dimen name="checkbox_padding_one">24dp</dimen>
 </resources>
